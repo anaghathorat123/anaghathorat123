@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Anagha Thorat!
 
-<!--
-**anaghathorat123/anaghathorat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 A Little Bit About Myself
 
-Here are some ideas to get you started:
+- 🔭 I'm currently a student, pursuing *TE-Computer Science* at *BSIOTR, JSPM* under *SPPU University*.
+- 🎓 I've completed my 12th grade from *BJS College* with a remarkable score of *88.5%*.
+- 🌟 Passionate about technology, coding, and constantly learning new things in the world of computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 How to Reach Me
+
+Feel free to connect with me for collaborations or just a friendly chat about technology and computer science!
+
+---
