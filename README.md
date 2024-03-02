@@ -9,7 +9,4 @@
 #### 📫 How to Reach Me
 
 Feel free to connect with me for collaborations or just a friendly chat about technology and computer science!
-
-LinkedIn Profile - https://www.linkedin.com/in/anagha-thorat-859771275/
-Peerlist Profile - https://peerlist.io/anagha/resume
 ---
